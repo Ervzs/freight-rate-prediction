@@ -11,10 +11,8 @@ Follow these steps to set up the project on your local machine.
    `python -m venv env`
 3. Activate the virtual environment:
    `env\Scripts\activate`
-4. Install the required packages:
+4. Install the required packages and tools:
    `pip install -r requirements.txt`
-5. Install Jupyter Notebook to run the code:
-   `pip install jupyter`
 
 ## How to Run the Code
 

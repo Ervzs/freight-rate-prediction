@@ -25,4 +25,4 @@ Follow these steps to set up the project on your local machine.
 
 To verify the model outputs and generate the December price chart, run the provided scoring script in your terminal:
 
-`python score.py --predictions validation_predictions.csv --december-predictions december-chart-inputs.csv`
+`python score.py --predictions data/validation_predictions.csv --december-predictions data/december-chart-inputs.csv`
